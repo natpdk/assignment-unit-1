@@ -7,13 +7,21 @@ main {
     background-color: rgb(61, 66, 127);
 }
 /* Align the h1 containing your name in the center of the header*/
-
+h1 {
+    text-align: center;
+  }
 /* Make your p tag a different color and italic */
-
+p {
+    color: rgb(245, 133, 96);
+  }
 /* Put a border around your image */
-
+img {
+    border: 5px solid rgb(5, 72, 48);
+  }
 /* Change the font-family of your list */
-
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+  }
 /* Add a background color to the footer element */
 footer {
     background-color: rgb(5, 72, 48);
